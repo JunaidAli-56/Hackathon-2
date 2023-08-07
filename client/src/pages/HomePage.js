@@ -140,7 +140,7 @@ const HomePage = () => {
               ))}
             </Radio.Group>
           </div>
-          <div className="d-flex flex-column">
+          <div className="d-flex flex-column my-4">
             <button
               className="btn btn-danger"
               onClick={() => window.location.reload()}
